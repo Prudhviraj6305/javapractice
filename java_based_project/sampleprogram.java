@@ -7,7 +7,6 @@ public class sampleprogram {
 		seen("karan","kiran");
 		unseen(10);
 		dontwo(50,30);
-		
 	}
 
 	private static void unseen(int a) {
